@@ -60,7 +60,7 @@ The dashboard transforms raw data into **meaningful visual insights** to support
 ---
 
 ## 📸 Dashboard Preview
-   ![Amazon Sales Dashboard](https://github.com/Purva1812/assets/dashboard.png.git)
+   ![Amazon Sales Dashboard](https://github.com/Purva1812/Amazon-Sales-Dashboard./blob/main/assets/dashboard.png?raw=true)
 
 
 <p align="center">
