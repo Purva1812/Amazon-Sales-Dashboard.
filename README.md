@@ -60,7 +60,7 @@ The dashboard transforms raw data into **meaningful visual insights** to support
 ---
 
 ## 📸 Dashboard Preview
-
+   ![Amazon Sales Dashboard](./assets/dashboard.png)
 ---
 
 ## 📈 Key Insights
@@ -92,7 +92,7 @@ The dashboard transforms raw data into **meaningful visual insights** to support
 
 ## 🔗 Project Repository
 
-👉 https://github.com/your-github-username/Amazon-Sales-Dashboard
+👉 https://github.com/Purva1812/Amazon-Sales-Dashboard..git
 
 ---
 
