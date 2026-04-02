@@ -37,14 +37,6 @@ The dashboard transforms raw data into **meaningful visual insights** to support
 
 ---
 
-## 🛠️ Tech Stack
-
-
-
-\
-
----
-
 ## 📂 Dataset Information
 
 * 📁 Format: CSV / Excel
@@ -99,7 +91,8 @@ The dashboard transforms raw data into **meaningful visual insights** to support
 
 ## 📫 Connect With Me
 
-\
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purva-naikwadi-btech-mechatronics)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:purvanaikawadi11@gmail.com)
 
 ---
 
